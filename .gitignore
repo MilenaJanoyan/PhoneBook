@@ -1,0 +1,9 @@
+!.gitignore
+
+.vscode/**
+input.txt
+CMakeCache.txt
+**.cmake
+**Makefile**
+**/CMakeFiles/**
+**/bin/**
